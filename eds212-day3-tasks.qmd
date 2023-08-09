@@ -1,0 +1,26 @@
+---
+title: "eds212-day3-tasks"
+format: html
+---
+
+## Day 3 end of day tasks
+
+### PART 2:
+
+```{r}
+vec_a <- c(1,6)
+
+vec_b <- c(2,4)
+
+# add vectors
+vec_a + vec_b
+
+# subtract vectors
+vec_b - vec_a
+
+# scalar multiplier
+4 * vec_a
+
+# dot product
+vec_a %*% vec_b
+```
