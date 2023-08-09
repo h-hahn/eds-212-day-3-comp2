@@ -1,0 +1,26 @@
+---
+title: "eds-212-day-3-comp2"
+---
+
+## Vectors in R
+
+```{r}
+marmots <- c("blue", "green", 4, "yellow", TRUE)
+
+# if items in vectors are different classes, it'll categorize it as one common type
+class(marmots) 
+```
+
+Create a numeric vector
+
+```{r}
+# numeric values
+pika <- c(12.4, 6.8, 2.9, 8.9, 5)
+
+class(pika)
+```
+
+```{r}
+# integer values
+bear <- c(20L, 3L, 5L, 18L)
+```
