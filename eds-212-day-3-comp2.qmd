@@ -44,3 +44,5 @@ ring_scalar <- 100 * ringtail
 # dot product
 ring_dotproduct <- ringtail %*% fox
 ```
+
+make a change
